@@ -23,6 +23,7 @@ MONIT combines multi-source monitoring, alerts, dashboards, reporting and AI-ass
 
 - Morocco: [monit.ma](https://monit.ma)
 - International: [monit.media](https://monit.media)
+- Public case study: [monit-media-intelligence](https://github.com/mybelatar/monit-media-intelligence)
 
 ### [AL LABS](https://allabs.ma)
 
@@ -51,6 +52,12 @@ Custom software and digital transformation for businesses. SALVIA develops web p
 A full-stack operations platform for a hospitality and equestrian project in Safi: order management, kitchen workflow, stock, reservations, role-based tablet interfaces, real-time notifications, PWA and Android delivery.
 
 `Next.js` · `TypeScript` · `Prisma` · `Tailwind CSS` · `SSE` · `PWA` · `Capacitor` · `Android`
+
+### [e-Jarida CMS Archive](https://github.com/mybelatar/e-jarida-cms-archive)
+
+A documented retrospective on the PHP publishing CMS I built in the early 2010s, supported by publicly available video tutorials from July and August 2013.
+
+`PHP` · `CMS` · `Digital Publishing` · `Online Newspapers` · `Product History`
 
 ## Journey
 
