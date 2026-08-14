@@ -1,95 +1,73 @@
 # Mohamed-Yassine Belatar
 
-**Founder of [AL LABS](https://allabs.ma) & [SALVIA](https://salvia.ma) · Building [MONIT](https://monit.media)**
+**Entrepreneur & investor · Founder of [AL LABS](https://allabs.ma), [SALVIA](https://salvia.ma) and [MONIT](https://monit.media) · Co-founder & Managing Partner of [Mercaluz](https://www.mercaluz.net)**
 
-[![MONIT](https://img.shields.io/badge/MONIT-Media%20Intelligence-0A66C2?style=flat-square)](https://monit.media)
-[![AL LABS](https://img.shields.io/badge/AL%20LABS-Applied%20AI-111827?style=flat-square)](https://allabs.ma)
-[![SALVIA](https://img.shields.io/badge/SALVIA-Business%20Software-166534?style=flat-square)](https://salvia.ma)
-![Morocco](https://img.shields.io/badge/Based%20in-Morocco-C1272D?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mybelatar.github.io-0B3D2E?style=flat-square)](https://mybelatar.github.io) [![MONIT](https://img.shields.io/badge/MONIT-Media_Intelligence-0B63CE?style=flat-square)](https://monit.media) [![Morocco](https://img.shields.io/badge/Based_in-Morocco-C1272D?style=flat-square)](https://en.wikipedia.org/wiki/Morocco)
 
-I design and build digital products at the intersection of **media intelligence, applied AI, automation and business process digitalization**.
+I build and operate ventures at the intersection of **technology, media intelligence, industrial digitalization, seafood export and local tourism**. My role goes from opportunity discovery and product strategy to architecture, execution, partnerships and market development.
 
-Je conçois des produits numériques à l'intersection de la **veille média, de l'IA appliquée, de l'automatisation et de la digitalisation des processus métier**.
+Je crée et développe des entreprises, produits et marques à l’intersection de la **technologie, de la veille média, de l’industrie, de l’export et du tourisme de proximité**.
 
-My work covers the complete product lifecycle: understanding field operations, designing the system, connecting data sources and delivering tools that teams can use in real working environments.
+## Venture portfolio
 
-## Current focus
+### [AL LABS](https://allabs.ma) · Founder & CEO
 
-### [MONIT](https://monit.media)
-
-Media intelligence platform for monitoring and analysing information from the press, web, publicly accessible social content, radio and television, depending on available sources.
-
-MONIT combines multi-source monitoring, alerts, dashboards, reporting and AI-assisted analysis, with particular attention to Arabic and French content.
+Applied AI and digital-product company that publishes and operates [MONIT](https://monit.media), a multilingual media-intelligence and social-listening platform covering press, web, publicly accessible social content, radio and television.
 
 - Morocco: [monit.ma](https://monit.ma)
 - International: [monit.media](https://monit.media)
 - Public case study: [monit-media-intelligence](https://github.com/mybelatar/monit-media-intelligence)
 
-### [AL LABS](https://allabs.ma)
+### [SALVIA](https://salvia.ma) · Founder & CEO
 
-Applied AI, automation and product experimentation. AL LABS turns technological ideas into operational products, prototypes and business workflows.
+Custom software, web and mobile platforms, SaaS products, automation and business-process digitalization for organizations in industry, services, recruitment and export.
 
-### [SALVIA](https://salvia.ma)
+### [Mercaluz](https://www.mercaluz.net) · Co-founder & Managing Partner
 
-Custom software and digital transformation for businesses. SALVIA develops web platforms, mobile applications, internal tools and business software shaped around real operational needs.
+Safi-based Moroccan-Spanish seafood company active in wholesale, freezing and international export. I lead strategy, partnerships, operations digitalization and market development.
 
-## Selected work
+- Public venture case study: [mercaluz-seafood-export](https://github.com/mybelatar/mercaluz-seafood-export)
 
-| Project or system | My contribution |
+## International collaborations
+
+- **Spica Media — UAE:** current consulting engagement in media intelligence and product strategy.
+- **Treasures Strategic Advisory (GCC Treasures) — Saudi Arabia:** separate collaboration to adapt MONIT as a white-label solution for the Saudi market.
+
+These are two independent engagements; Spica Media and Treasures Strategic Advisory are not presented as related organizations.
+
+## Brands & entrepreneurial projects
+
+- **[Safi Cavaliers](https://www.instagram.com/saficavaliers/)** — family leisure concept in Safi combining horseback riding, nature and beldi dining. Public platform: [saficavaliers](https://github.com/mybelatar/saficavaliers).
+- **[Safi Plantes](https://www.instagram.com/safiplantes/)** — digital nursery brand/project created to showcase and commercialize indoor, shade, ornamental and succulent plants.
+- **Service Livero** — local delivery-service project in Safi.
+- **FADAA AL AILA — فضاء العائلة** — founder of a community initiative focused on family tourism and local discovery.
+
+## Selected execution track record
+
+| System / sector | Contribution |
 |---|---|
-| **MONIT** | Product development for multi-source media monitoring, alerts, analysis and reporting |
-| **AfricaVerify / Comply World** | Initial compliance and due-diligence platform designed and developed from scratch |
-| **Industrial production monitoring** | Digitalization of multiple production units, direct connection to industrial automation systems and centralized production tracking |
-| **Automotive technical inspections** | Application used across more than 60 centres, head-office web services, centralized statistics and reporting, and communication with institutional systems |
-| **Business operations platforms** | Internal management, export workflow, documentation and activity-monitoring applications |
-| **e-Jarida** | PHP CMS created in the early 2010s for building and managing websites and online newspapers |
-| **Monitoring and automation tools** | Media-monitoring platforms, trading applications, bots and lead-generation tools |
+| **AfricaVerify / Comply World** | Compliance and due-diligence platform designed and developed from scratch for the 54 African countries |
+| **CONASER** | Automotive technical-inspection system used across more than 60 centres, with head-office services, reporting and institutional integrations |
+| **DAMANE GYPSUM** | Digitalization of multiple production units, direct connection to industrial automation systems and centralized production tracking |
+| **CMSP SKILLS · Moulim Group / MIZA** | Business platforms and internal-management applications |
+| **MOFARPEIXE · ABX GROUP · RGUIMAR QUESADA · PROCOSAF** | Digitalization of seafood-export and operational workflows |
+| **Act4Community Safi** | Media-monitoring mission |
+| **e-Jarida** | PHP CMS used to create hundreds of websites and online newspapers; publicly documented in 2013 |
+| **Call centres · EOL Center** | Lead-research, qualification and prospecting tools and bots |
 
-## Public project
+## Public repositories
 
-### [Safi Cavaliers Operations](https://github.com/mybelatar/saficavaliers)
+- [monit-media-intelligence](https://github.com/mybelatar/monit-media-intelligence) — public product and architecture case study
+- [saficavaliers](https://github.com/mybelatar/saficavaliers) — operations platform for hospitality and equestrian activities
+- [e-jarida-cms-archive](https://github.com/mybelatar/e-jarida-cms-archive) — historical CMS retrospective and evidence
+- [mercaluz-seafood-export](https://github.com/mybelatar/mercaluz-seafood-export) — venture and export-operations case study
 
-A full-stack operations platform for a hospitality and equestrian project in Safi: order management, kitchen workflow, stock, reservations, role-based tablet interfaces, real-time notifications, PWA and Android delivery.
+## Connect
 
-`Next.js` · `TypeScript` · `Prisma` · `Tailwind CSS` · `SSE` · `PWA` · `Capacitor` · `Android`
+- Portfolio: [mybelatar.github.io](https://mybelatar.github.io)
+- LinkedIn: [Mohamed-Yassine Belatar](https://www.linkedin.com/in/mohamed-yassine-belatar-996772267/)
+- Facebook: [belatar](https://www.facebook.com/belatar)
+- Instagram: [@m.yassine.balatar](https://www.instagram.com/m.yassine.balatar/)
+- YouTube archive: [mohamed-yassine belatar](https://www.youtube.com/@mohamed-yassinebelatar7985)
 
-### [e-Jarida CMS Archive](https://github.com/mybelatar/e-jarida-cms-archive)
-
-A documented retrospective on the PHP publishing CMS I built in the early 2010s, supported by publicly available video tutorials from July and August 2013.
-
-`PHP` · `CMS` · `Digital Publishing` · `Online Newspapers` · `Product History`
-
-## Journey
-
-- **Early 2010s** — e-Jarida and digital publishing platforms
-- **2013** — Multi-centre automotive technical-inspection system
-- **2014–2019** — Media monitoring, automation, trading and lead-generation tools
-- **Following years** — Compliance platforms, industrial digitalization and custom business software
-- **Today** — MONIT, AL LABS and SALVIA
-
-## Engineering approach
-
-- Start from the operational reality, not from the technology
-- Connect fragmented systems and data sources
-- Turn complex information into usable signals
-- Automate repetitive work while keeping human oversight
-- Build products that can evolve in production
-
-## Technologies
-
-`TypeScript` · `JavaScript` · `Next.js` · `Node.js` · `PHP` · `Prisma` · `SQL` · `REST & Web Services` · `Docker` · `Nginx` · `PWA` · `Capacitor` · `NLP` · `Dashboards & Reporting` · `Industrial Integrations`
-
-## Portfolio policy
-
-This profile documents selected products, technical architectures and non-confidential case studies. Client source code, operational credentials and sensitive production details remain private.
-
-Ce profil présente des produits, architectures techniques et études de cas non confidentielles. Le code client et les informations sensibles de production restent privés.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/mohamed-yassine-belatar-996772267/)
-· [MONIT](https://monit.media)
-· [AL LABS](https://allabs.ma)
-· [SALVIA](https://salvia.ma)
-
-**Building useful systems from complex information and real-world operations.**
+> Public portfolio only. Client implementations, credentials, personal data and confidential technical details are intentionally excluded.
